@@ -33,6 +33,3 @@ Welcome to my learning journey toward becoming a **Data Analyst**.
 
 To become a Data Analyst by building strong Python skills and completing real-world data analysis projects.
 
-## 🎯 Goal
-
-To become a Data Analyst by building strong Python skills and completing real-world data analysis projects.
