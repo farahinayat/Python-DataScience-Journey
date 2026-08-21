@@ -27,5 +27,4 @@ The original World Bank dataset contains annual CPI values.
 Annual inflation rates were calculated in Python using the year-over-year
 percentage change in CPI.
 
-The dataset is not included in this repository. Please refer to the
-World Bank for the original data source.
+
