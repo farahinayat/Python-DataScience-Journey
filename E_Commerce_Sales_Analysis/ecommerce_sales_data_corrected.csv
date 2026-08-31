@@ -1,0 +1,506 @@
+Order_ID,Order_Date,Customer_ID,Product,Quantity,Payment_Method,Order_Status,Customer_Name,Gender,Age,City,Unit_Price,Revenue
+ORD10174,2026-01-13,C1071,Mobile,3,Cash,Completed,Customer_071,Male,44.0,Lahore,52100.0,156300.0
+ORD10275,2026-08-14,C1074,Laptop,2,Card,Returned,Customer_074,Male,19.0,Islamabad,84300.0,168600.0
+ORD10491,2026-11-15,C1009,Keyboard,1,Bank Transfer,Cancelled,Customer_009,Female,45.0,Peshawar,4300.0,4300.0
+ORD10073,2026-06-24,C1010,Headphones,3,Cash,Cancelled,Customer_010,Female,31.0,Rawalpindi,8100.0,24300.0
+ORD10306,2026-08-25,C1105,Monitor,4,Online,Completed,Customer_105,Male,39.0,Rawalpindi,29000.0,116000.0
+ORD10077,2026-11-11,C1036,Office Chair,2,Online,Completed,Customer_036,Male,57.0,Faisalabad,20700.0,41400.0
+ORD10477,2026-07-30,C1070,Mobile,2,Online,Completed,Customer_070,Male,42.0,Islamabad,58600.0,117200.0
+ORD10141,2026-11-29,C1096,Laptop,2,Card,Returned,Customer_096,Female,41.0,Karachi,86400.0,172800.0
+ORD10471,2026-02-13,C1149,Mouse,4,Online,Completed,Customer_149,Female,23.0,Islamabad,2400.0,9600.0
+ORD10500,2026-04-10,C1144,Keyboard,2,Online,Completed,Customer_144,Male,36.0,Multan,4800.0,9600.0
+ORD10219,2026-01-08,C1028,Monitor,2,Card,Completed,Customer_028,Male,39.0,Lahore,28300.0,56600.0
+ORD10010,2026-07-20,C1039,Keyboard,4,Online,Completed,Customer_039,Male,23.0,Karachi,4700.0,18800.0
+ORD10481,2026-11-03,C1046,Keyboard,5,Card,Completed,Customer_046,Male,42.0,Karachi,4600.0,23000.0
+ORD10079,2026-08-28,C1105,Monitor,3,Online,Completed,Customer_105,Male,39.0,Rawalpindi,28500.0,85500.0
+ORD10323,2026-03-25,C1022,Keyboard,1,Online,Completed,Customer_022,Male,19.0,Karachi,4600.0,4600.0
+ORD10313,2026-10-19,C1139,Keyboard,3,Card,Completed,Customer_139,Male,30.0,Islamabad,4300.0,12900.0
+ORD10125,2026-09-19,C1068,Laptop,3,Cash,Completed,Customer_068,Female,23.0,Multan,88200.0,264600.0
+ORD10385,2026-02-06,C1114,Laptop,4,Cash,Completed,Customer_114,Female,18.0,Islamabad,81400.0,325600.0
+ORD10196,2026-04-16,C1036,Monitor,2,Online,Completed,Customer_036,Male,57.0,Faisalabad,30100.0,60200.0
+ORD10448,2026-02-19,C1073,Desk,1,Cash,Completed,Customer_073,Male,60.0,Rawalpindi,26600.0,26600.0
+ORD10272,2026-01-07,C1100,Mobile,2,Online,Completed,Customer_100,Male,52.0,Multan,57000.0,114000.0
+ORD10279,2026-01-07,C1007,Mobile,1,Card,Completed,Customer_007,Male,37.0,Multan,51300.0,51300.0
+ORD10031,2026-05-01,C1099,Keyboard,1,Card,Completed,Customer_099,Female,50.0,Multan,4800.0,4800.0
+ORD10001,2026-09-14,C1092,Headphones,2,Bank Transfer,Completed,Customer_092,Female,28.0,Islamabad,8600.0,17200.0
+ORD10421,2026-01-21,C1036,Laptop,1,Online,Completed,Customer_036,Male,57.0,Faisalabad,86100.0,86100.0
+ORD10445,2026-06-26,C1072,Laptop,2,Card,Completed,Customer_072,Male,57.0,Lahore,91600.0,183200.0
+ORD10080,2026-09-18,C1112,Laptop,1,Card,Completed,Customer_112,Female,26.0,Islamabad,82600.0,82600.0
+ORD10319,2026-04-08,C1062,Laptop,1,Cash,Completed,Customer_062,Female,39.0,Islamabad,90800.0,90800.0
+ORD10211,2026-02-04,C1110,Laptop,1,Online,Completed,Customer_110,Male,30.0,Multan,84200.0,84200.0
+ORD10497,2026-05-30,C1034,Laptop,1,Online,Completed,Customer_034,Male,43.0,Peshawar,90100.0,90100.0
+ORD10173,2026-03-20,C1008,Desk,1,Card,Completed,Customer_008,Female,54.0,Faisalabad,26300.0,26300.0
+ORD10454,2026-05-28,C1103,Laptop,2,Cash,Returned,Customer_103,Female,35.0,Islamabad,82500.0,165000.0
+ORD10375,2026-06-29,C1076,Laptop,2,Online,Completed,Customer_076,Female,47.0,Rawalpindi,90100.0,180200.0
+ORD10359,2026-11-26,C1050,Keyboard,1,Cash,Completed,Customer_050,Male,31.0,Karachi,4600.0,4600.0
+ORD10495,2026-04-21,C1050,Laptop,2,Card,Completed,Customer_050,Male,31.0,Karachi,90500.0,181000.0
+ORD10154,2026-04-11,C1023,Monitor,3,Online,Completed,Customer_023,Male,24.0,Islamabad,29900.0,89700.0
+ORD10003,2026-11-29,C1078,Office Chair,1,Online,Completed,Customer_078,Male,42.0,Faisalabad,20800.0,20800.0
+ORD10336,2026-06-02,C1009,Headphones,2,Cash,Completed,Customer_009,Female,45.0,Peshawar,7400.0,14800.0
+ORD10209,2026-11-06,C1082,Office Chair,5,Online,Completed,Customer_082,Female,58.0,Multan,22100.0,110500.0
+ORD10074,2026-10-19,C1130,Headphones,2,Online,Completed,Customer_130,Female,43.0,Lahore,8000.0,16000.0
+ORD10496,2026-01-23,C1019,Mouse,4,Cash,Completed,Customer_019,Female,27.0,Multan,2300.0,9200.0
+ORD10452,2026-06-21,C1090,Keyboard,4,Card,Completed,Customer_090,Male,43.0,Islamabad,4800.0,19200.0
+ORD10205,2026-05-19,C1069,Mouse,1,Card,Completed,Customer_069,Male,37.0,Lahore,2400.0,2400.0
+ORD10069,2026-09-21,C1073,Desk,3,Online,Completed,Customer_073,Male,60.0,Rawalpindi,27800.0,83400.0
+ORD10091,2026-04-19,C1123,Monitor,1,Cash,Completed,Customer_123,Male,53.0,Multan,30200.0,30200.0
+ORD10300,2026-08-13,C1149,Laptop,1,Cash,Completed,Customer_149,Female,23.0,Islamabad,84100.0,84100.0
+ORD10034,2026-09-22,C1145,Mobile,1,Card,Cancelled,Customer_145,Female,58.0,Karachi,52900.0,52900.0
+ORD10071,2026-02-26,C1061,Mouse,4,Cash,Completed,Customer_061,Female,45.0,Lahore,2400.0,9600.0
+ORD10470,2026-06-09,C1062,Mobile,4,Cash,Completed,Customer_062,Female,39.0,Islamabad,52500.0,210000.0
+ORD10001,2026-09-14,C1092,Headphones,2,Bank Transfer,Completed,Customer_092,Female,28.0,Islamabad,8600.0,17200.0
+ORD10012,2026-06-25,C1129,Headphones,1,Cash,Completed,Customer_129,Male,59.0,Peshawar,8500.0,8500.0
+ORD10282,2026-01-14,C1010,Desk,2,Card,Completed,Customer_010,Female,31.0,Rawalpindi,27500.0,55000.0
+ORD10023,2026-02-22,C1131,Mouse,2,Bank Transfer,Completed,Customer_131,Male,22.0,Lahore,2600.0,5200.0
+ORD10102,2026-08-04,C1134,Desk,1,Online,Completed,Customer_134,Female,60.0,Islamabad,28200.0,28200.0
+ORD10269,2026-01-11,C1032,Office Chair,1,Card,Cancelled,Customer_032,Female,34.0,Islamabad,22900.0,22900.0
+ORD10485,2026-04-12,C1123,Laptop,2,Card,Completed,Customer_123,Male,53.0,Multan,86500.0,173000.0
+ORD10442,2026-09-29,C1028,Keyboard,1,Online,Completed,Customer_028,Male,39.0,Lahore,4800.0,4800.0
+ORD10291,2026-05-10,C1006,Keyboard,4,Cash,Completed,Customer_006,Female,43.0,Rawalpindi,4400.0,17600.0
+ORD10085,2026-03-07,C1067,Desk,3,Card,Completed,Customer_067,Male,60.0,Islamabad,26100.0,78300.0
+ORD10246,2026-01-01,C1087,Monitor,4,Online,Completed,Customer_087,Male,48.0,Faisalabad,31800.0,127200.0
+ORD10064,2026-11-15,C1126,Desk,1,Card,Completed,Customer_126,Female,53.0,Rawalpindi,27900.0,27900.0
+ORD10056,2026-04-27,C1116,Desk,4,Cash,Completed,Customer_116,Male,40.0,Faisalabad,26300.0,105200.0
+ORD10230,2026-01-07,C1132,Mouse,2,Bank Transfer,Returned,Customer_132,Male,49.0,Karachi,2600.0,5200.0
+ORD10019,2026-12-18,C1046,Headphones,4,Card,Completed,Customer_046,Male,42.0,Karachi,7700.0,30800.0
+ORD10411,2026-10-21,C1051,Mobile,1,Online,Completed,Customer_051,Male,40.0,Faisalabad,53600.0,53600.0
+ORD10210,2026-05-11,C1051,Headphones,3,Cash,Completed,Customer_051,Male,40.0,Faisalabad,8300.0,24900.0
+ORD10395,2026-06-08,C1046,Mobile,3,Cash,Completed,Customer_046,Male,42.0,Karachi,50800.0,152400.0
+ORD10083,2026-12-08,C1062,Mouse,2,Card,Completed,Customer_062,Female,39.0,Islamabad,2700.0,5400.0
+ORD10040,2026-04-24,C1060,Monitor,2,Online,Completed,Customer_060,Female,18.0,Rawalpindi,27800.0,55600.0
+ORD10456,2026-12-19,C1104,Headphones,2,Cash,Cancelled,Customer_104,,28.0,Lahore,7900.0,15800.0
+ORD10047,2026-08-05,C1147,Mouse,1,Cash,Completed,Customer_147,Female,60.0,Lahore,2600.0,2600.0
+ORD10413,2026-09-29,C1058,Mobile,2,Bank Transfer,Returned,Customer_058,Male,36.0,Rawalpindi,57000.0,114000.0
+ORD10315,2026-11-15,C1086,Desk,2,Bank Transfer,Completed,Customer_086,Male,18.0,Lahore,28100.0,56200.0
+ORD10355,2026-04-04,C1056,Mobile,3,Cash,Completed,Customer_056,Female,51.0,Faisalabad,52200.0,156600.0
+ORD10078,2026-02-27,C1065,Office Chair,3,Card,Completed,Customer_065,Female,35.0,Faisalabad,20500.0,61500.0
+ORD10398,2026-09-08,C1021,Mobile,5,Bank Transfer,Completed,Customer_021,Male,19.0,Islamabad,55700.0,278500.0
+ORD10105,2026-09-13,C1051,Headphones,2,Cash,returned,Customer_051,Male,40.0,Faisalabad,8200.0,16400.0
+ORD10204,2026-10-27,C1131,Mobile,2,Cash,Completed,Customer_131,Male,22.0,Lahore,56500.0,113000.0
+ORD10381,2026-05-08,C1128,Laptop,2,Online,Completed,Customer_128,Male,41.0,Lahore,85600.0,171200.0
+ORD10489,2026-05-02,C1077,Mobile,1,Cash,Completed,Customer_077,Male,19.0,Lahore,56400.0,56400.0
+ORD10070,2026-05-12,C1021,Mobile,1,Card,Completed,Customer_021,Male,19.0,Islamabad,50800.0,50800.0
+ORD10408,2026-04-08,C1075,Desk,4,Online,Completed,Customer_075,Male,40.0,Multan,27000.0,108000.0
+ORD10256,2026-12-06,C1082,Keyboard,1,Online,Returned,Customer_082,Female,58.0,Multan,4500.0,4500.0
+ORD10392,2026-04-21,C1124,Keyboard,2,Card,Completed,Customer_124,Female,31.0,Lahore,4700.0,9400.0
+ORD10312,2026-02-21,C1146,Keyboard,1,Online,Completed,Customer_146,Male,22.0,Lahore,4700.0,4700.0
+ORD10235,2026-12-17,C1029,Laptop,2,Card,Completed,Customer_029,Male,30.0,Karachi,81900.0,163800.0
+ORD10474,2026-11-04,C1048,Mobile,2,Cash,Completed,Customer_048,Female,22.0,Peshawar,58200.0,116400.0
+ORD10324,2026-10-22,C1025,Mobile,1,Online,Completed,Customer_025,Male,27.0,Karachi,54300.0,54300.0
+ORD10094,2026-03-07,C1125,Mobile,3,Online,Completed,Customer_125,Female,21.0,Karachi,54300.0,162900.0
+ORD10138,2026-10-27,C1091,Desk,4,Card,Completed,Customer_091,Female,55.0,Karachi,30100.0,120400.0
+ORD10177,2026-08-22,C1109,Headphones,1,Online,Completed,Customer_109,Female,28.0,Faisalabad,8600.0,8600.0
+ORD10337,2026-05-27,C1100,Mobile,2,Online,Completed,Customer_100,Male,52.0,Multan,52500.0,105000.0
+ORD10132,2026-08-30,C1087,Laptop,2,Card,Completed,Customer_087,Male,48.0,Faisalabad,79300.0,158600.0
+ORD10003,2026-11-29,C1078,Office Chair,1,Online,Completed,Customer_078,Male,42.0,Faisalabad,20800.0,20800.0
+ORD10365,2026-04-20,C1091,Headphones,3,Online,Returned,Customer_091,Female,55.0,Karachi,7700.0,23100.0
+ORD10133,2026-07-29,C1066,Desk,1,Cash,Completed,Customer_066,Female,37.0,Lahore,27600.0,27600.0
+ORD10332,2026-08-06,C1024,Office Chair,3,Card,Cancelled,Customer_024,Female,24.0,Multan,21900.0,65700.0
+ORD10412,2026-08-28,C1012,Mobile,2,Cash,Completed,Customer_012,,32.0,Karachi,59000.0,118000.0
+ORD10004,2026-10-03,C1051,Headphones,2,Card,Completed,Customer_051,Male,40.0,Faisalabad,7400.0,14800.0
+ORD10350,2026-05-01,C1007,Monitor,1,Online,Completed,Customer_007,Male,37.0,Multan,29300.0,29300.0
+ORD10087,2026-11-18,C1143,Mobile,1,Cash,Completed,Customer_143,Male,36.0,Multan,58400.0,58400.0
+ORD10076,2026-02-06,C1098,Desk,3,Cash,Completed,Customer_098,Female,34.0,Faisalabad,26100.0,78300.0
+ORD10443,2026-03-11,C1012,Office Chair,2,Bank Transfer,Returned,Customer_012,Male,32.0,Karachi,21000.0,42000.0
+ORD10016,2026-07-09,C1072,Desk,1,Card,Completed,Customer_072,Male,57.0,Lahore,26200.0,26200.0
+ORD10326,2026-11-28,C1018,Desk,5,Cash,Completed,Customer_018,Male,45.0,Rawalpindi,29600.0,148000.0
+ORD10389,2026-07-12,C1137,Keyboard,1,Card,Completed,Customer_137,Female,42.0,Rawalpindi,4600.0,4600.0
+ORD10020,2026-05-13,C1148,Mobile,2,Online,Completed,Customer_148,Female,48.0,Karachi,57800.0,115600.0
+ORD10325,2026-12-24,C1001,Laptop,1,Cash,Completed,Customer_001,Male,47.0,Faisalabad,90600.0,90600.0
+ORD10335,2026-10-15,C1034,Office Chair,1,Card,Completed,Customer_034,Male,43.0,Peshawar,20500.0,20500.0
+ORD10057,2026-02-16,C1011,Mouse,4,Cash,Returned,Customer_011,Male,53.0,Lahore,2600.0,10400.0
+ORD10339,2026-01-23,C1023,Mouse,1,Card,Completed,Customer_023,Male,24.0,Islamabad,2700.0,2700.0
+ORD10409,2026-05-16,C1123,Headphones,1,Card,Completed,Customer_123,Male,53.0,Multan,8500.0,8500.0
+ORD10334,2026-02-04,C1087,Desk,1,Cash,Cancelled ,Customer_087,Male,48.0,Faisalabad,28000.0,28000.0
+ORD10182,2026-04-28,C1077,Mobile,3,Cash,Completed,Customer_077,Male,19.0,Lahore,56700.0,170100.0
+ORD10228,2026-02-22,C1011,Headphones,1,Online,Completed,Customer_011,Male,53.0,Lahore,7800.0,7800.0
+ORD10427,2026-05-02,C1125,Keyboard,3,Bank Transfer,Completed,Customer_125,Female,21.0,Karachi,4700.0,14100.0
+ORD10181,2026-10-07,C1015,Mobile,1,Card,Completed,Customer_015,Male,40.0,Lahore,55600.0,55600.0
+ORD10026,2026-10-12,C1108,Keyboard,2,Online,Completed,Customer_108,Female,18.0,Peshawar,4300.0,8600.0
+ORD10330,2026-01-08,C1017,Desk,2,Online,Completed,Customer_017,Female,49.0,Lahore,26600.0,53200.0
+ORD10239,2026-12-08,C1058,Desk,1,Card,Returned,Customer_058,Male,36.0,Rawalpindi,25900.0,25900.0
+ORD10245,2026-06-09,C1122,Mobile,2,Online,Completed,Customer_122,Female,42.0,Islamabad,56000.0,112000.0
+ORD10251,2026-05-29,C1014,Laptop,2,Cash,Completed,Customer_014,Female,27.0,Multan,82800.0,165600.0
+ORD10418,2026-04-29,C1083,Mobile,2,Cash,Completed,Customer_083,Female,45.0,Rawalpindi,57900.0,115800.0
+ORD10118,2026-04-23,C1105,Mouse,3,Cash,Completed,Customer_105,Male,39.0,Rawalpindi,2600.0,7800.0
+ORD10043,2026-11-30,C1122,Monitor,1,Online,Completed,Customer_122,Female,42.0,Islamabad,31700.0,31700.0
+ORD10322,2026-03-14,C1003,Office Chair,1,Online,Returned,Customer_003,Female,35.0,Rawalpindi,22600.0,22600.0
+ORD10347,2026-12-16,C1010,Mobile,1,Card,Completed,Customer_010,Female,31.0,Rawalpindi,56900.0,56900.0
+ORD10183,2026-04-20,C1115,Headphones,3,Online,Completed,Customer_115,Female,21.0,Peshawar,8100.0,24300.0
+ORD10156,2026-09-29,C1131,Office Chair,1,Card,Completed,Customer_131,Male,22.0,Lahore,22000.0,22000.0
+ORD10281,2026-04-12,C1043,Laptop,1,Card,Completed,Customer_043,Male,50.0,Lahore,79300.0,79300.0
+ORD10127,2026-04-11,C1112,Monitor,1,Card,Completed,Customer_112,Female,26.0,Islamabad,32100.0,32100.0
+ORD10449,2026-10-08,C1126,Laptop,1,Online,Cancelled,Customer_126,Female,53.0,Rawalpindi,84800.0,84800.0
+ORD10032,2026-03-11,C1097,Headphones,3,Online,Completed,Customer_097,Female,18.0,Lahore,7900.0,23700.0
+ORD10114,2026-03-07,C1113,Mobile,1,Cash,Completed,Customer_113,Male,41.0,Faisalabad,53800.0,53800.0
+ORD10149,2026-10-12,C1039,Laptop,1,Cash,Completed,Customer_039,Male,23.0,Karachi,90200.0,90200.0
+ORD10430,2026-10-22,C1046,Monitor,1,Card,Completed,Customer_046,Male,42.0,Karachi,28000.0,28000.0
+ORD10401,2026-05-25,C1040,Mouse,1,Online,Completed,Customer_040,Male,27.0,Faisalabad,2400.0,2400.0
+ORD10058,2026-09-04,C1074,Laptop,3,Online,Completed,Customer_074,Male,19.0,Islamabad,81700.0,245100.0
+ORD10195,2026-07-16,C1024,Headphones,2,Bank Transfer,Completed,Customer_024,Female,24.0,Multan,8200.0,16400.0
+ORD10025,2026-06-23,C1054,Headphones,1,Cash,Completed,Customer_054,Male,47.0,Islamabad,8100.0,8100.0
+ORD10018,2026-10-02,C1071,Headphones,1,Bank Transfer,Completed,Customer_071,Male,44.0,Lahore,7500.0,7500.0
+ORD10298,2026-06-03,C1070,Laptop,1,Cash,Completed,Customer_070,Male,42.0,Islamabad,89400.0,89400.0
+ORD10067,2026-11-20,C1141,Mobile,5,Cash,Completed,Customer_141,Female,31.0,Karachi,53900.0,269500.0
+ORD10212,2026-12-07,C1031,Laptop,2,Online,Completed,Customer_031,Female,,Faisalabad,85200.0,170400.0
+ORD10404,2026-07-07,C1134,Desk,5,Online,Completed,Customer_134,Female,60.0,Islamabad,30100.0,150500.0
+ORD10095,2026-07-27,C1143,Keyboard,1,Cash,Completed,Customer_143,Male,36.0,Multan,4800.0,4800.0
+ORD10155,2026-05-12,C1123,Headphones,1,Card,Cancelled,Customer_123,Male,53.0,Multan,8500.0,8500.0
+ORD10441,2026-11-28,C1006,Monitor,1,Card,Completed,Customer_006,Female,43.0,Rawalpindi,32100.0,32100.0
+ORD10024,2026-03-31,C1067,Monitor,2,Card,Completed,Customer_067,Male,60.0,Islamabad,27700.0,55400.0
+ORD10226,2026-05-14,C1054,Laptop,1,Online,Completed,Customer_054,Male,47.0,Islamabad,82400.0,82400.0
+ORD10433,2026-09-07,C1100,Headphones,2,Online,Completed,Customer_100,Male,52.0,Multan,8100.0,16200.0
+ORD10447,2026-12-21,C1104,Laptop,1,Card,Completed,Customer_104,Male,28.0,Lahore,86700.0,86700.0
+ORD10006,2026-10-04,C1025,Mobile,1,Card,Completed,Customer_025,Male,27.0,Karachi,54100.0,54100.0
+ORD10117,2026-08-07,C1096,Headphones,2,Cash,Completed,Customer_096,Female,41.0,Karachi,8400.0,16800.0
+ORD10046,2026-10-15,C1133,Mobile,1,Cash,Completed,Customer_133,Female,60.0,Islamabad,57000.0,57000.0
+ORD10017,2026-08-01,C1011,Desk,3,Bank Transfer,Completed,Customer_011,Male,53.0,Lahore,28400.0,85200.0
+ORD10468,2026-05-28,C1138,Mobile,1,Online,Returned,Customer_138,Male,54.0,,57300.0,57300.0
+ORD10362,2026-02-25,C1085,Desk,1,Card,Completed,Customer_085,Male,39.0,Rawalpindi,27000.0,27000.0
+ORD10004,2026-10-03,C1051,Headphones,2,Card,Completed,Customer_051,Male,40.0,Faisalabad,7400.0,14800.0
+ORD10295,2026-09-27,C1117,Monitor,3,Card,Completed,Customer_117,Male,46.0,Multan,31800.0,95400.0
+ORD10186,2026-10-16,C1094,Office Chair,5,Online,Completed,Customer_094,Male,51.0,Islamabad,23200.0,116000.0
+ORD10061,2026-10-22,C1039,Mouse,3,Cash,Completed,Customer_039,Male,23.0,Karachi,2600.0,7800.0
+ORD10111,2026-04-25,C1149,Mobile,1,Cash,Cancelled,Customer_149,Female,23.0,Islamabad,56700.0,56700.0
+ORD10321,2026-02-27,C1108,Laptop,2,Card,Completed,Customer_108,Female,18.0,Peshawar,84500.0,169000.0
+ORD10266,2026-02-08,C1141,Laptop,1,Online,Completed,Customer_141,Female,31.0,Karachi,85300.0,85300.0
+ORD10030,2026-07-04,C1141,Laptop,3,Cash,Completed,Customer_141,Female,31.0,Karachi,78800.0,236400.0
+ORD10263,2026-11-18,C1048,Headphones,1,Online,Completed,Customer_048,Female,22.0,Peshawar,8300.0,8300.0
+ORD10478,2026-11-15,C1096,Desk,2,Card,Completed,Customer_096,Female,41.0,Karachi,26100.0,52200.0
+ORD10027,2026-10-11,C1029,Laptop,1,Cash,Completed,Customer_029,Male,30.0,Karachi,81700.0,81700.0
+ORD10008,2026-09-03,C1009,Mobile,1,Bank Transfer,Completed,Customer_009,Female,45.0,Peshawar,53000.0,53000.0
+ORD10458,2026-03-01,C1025,Laptop,1,Cash,Completed,Customer_025,Male,27.0,Karachi,78900.0,78900.0
+ORD10109,2026-01-28,C1123,Keyboard,2,Card,Completed,Customer_123,Male,53.0,Multan,4800.0,9600.0
+ORD10038,2026-11-07,C1049,Laptop,3,Card,Completed,Customer_049,Female,45.0,Karachi,88800.0,266400.0
+ORD10158,2026-07-13,C1064,Headphones,5,Cash,Completed,Customer_064,Male,59.0,Karachi,8200.0,41000.0
+ORD10472,2026-12-14,C1092,Keyboard,2,Online,Completed,Customer_092,Female,28.0,Islamabad,4200.0,8400.0
+ORD10119,2026-02-02,C1009,Keyboard,3,Card,Completed,Customer_009,Female,45.0,Peshawar,4500.0,13500.0
+ORD10115,2026-09-18,C1125,Headphones,1,Bank Transfer,Completed,Customer_125,Female,21.0,Karachi,8500.0,8500.0
+ORD10176,2026-06-01,C1083,Laptop,5,Cash,Completed,Customer_083,Female,45.0,Rawalpindi,88000.0,440000.0
+ORD10193,2026-07-17,C1033,Mouse,1,Bank Transfer,Completed,Customer_033,Male,28.0,Peshawar,2600.0,2600.0
+ORD10273,2026-05-19,C1065,Headphones,2,Online,Completed,Customer_065,Female,35.0,Faisalabad,7400.0,14800.0
+ORD10145,2026-07-26,C1148,Mobile,2,Bank Transfer,Completed,Customer_148,Female,48.0,Karachi,58000.0,116000.0
+ORD10490,2026-08-17,C1015,Mobile,1,Card,Completed,Customer_015,Male,40.0,Lahore,58300.0,58300.0
+ORD10383,2026-02-17,C1079,Headphones,2,Cash,Completed,Customer_079,Female,27.0,Multan,7900.0,15800.0
+ORD10356,2026-08-30,C1046,Mouse,1,Bank Transfer,Completed,Customer_046,Male,42.0,Karachi,2600.0,2600.0
+ORD10278,2026-05-07,C1004,Mobile,2,Online,Completed,Customer_004,Male,26.0,Multan,51300.0,102600.0
+ORD10221,2026-08-21,C1039,Mobile,1,Card,Completed,Customer_039,Male,23.0,Karachi,58100.0,58100.0
+ORD10450,2026-09-12,C1108,Laptop,2,Online,Completed,Customer_108,Female,18.0,Peshawar,81300.0,162600.0
+ORD10142,2026-01-30,C1141,Mouse,2,Card,Completed,Customer_141,Female,,Karachi,2600.0,5200.0
+ORD10369,2026-09-07,C1077,Keyboard,2,Online,Completed,Customer_077,Male,19.0,Lahore,4700.0,9400.0
+ORD10068,2026-03-11,C1076,Keyboard,2,Bank Transfer,Completed,Customer_076,Female,47.0,Rawalpindi,4700.0,9400.0
+ORD10361,2026-01-10,C1078,Monitor,2,Online,Completed,Customer_078,Male,42.0,Faisalabad,30400.0,60800.0
+ORD10169,2026-02-18,C1144,Mobile,3,,Completed,Customer_144,Male,36.0,Multan,56700.0,170100.0
+ORD10499,2026-10-05,C1095,Mobile,1,Online,Completed,Customer_095,Female,53.0,Peshawar,57100.0,57100.0
+ORD10379,2026-10-26,C1084,Laptop,1,Bank Transfer,Completed,Customer_084,Female,21.0,Karachi,82300.0,82300.0
+ORD10366,2026-06-20,C1140,Monitor,1,Online,Completed,Customer_140,Male,42.0,Karachi,29100.0,29100.0
+ORD10194,2026-11-01,C1012,Desk,1,Card,Completed,Customer_012,Male,32.0,Karachi,29300.0,29300.0
+ORD10250,2026-01-16,C1112,Laptop,4,Online,Completed,Customer_112,Female,26.0,Islamabad,91700.0,366800.0
+ORD10110,2026-07-17,C1010,Mouse,1,Online,Completed,Customer_010,Female,31.0,Rawalpindi,2600.0,2600.0
+ORD10434,2026-11-13,C1149,Desk,2,Cash,Completed,Customer_149,Female,23.0,Islamabad,27800.0,55600.0
+ORD10146,2026-09-28,C1005,Monitor,2,Online,Completed,Customer_005,Male,33.0,Islamabad,28600.0,57200.0
+ORD10093,2026-03-05,C1001,Mouse,1,Card,Completed,Customer_001,Male,47.0,Faisalabad,2500.0,2500.0
+ORD10153,2026-03-18,C1028,Mobile,2,Card,Completed,Customer_028,Male,39.0,Lahore,53400.0,106800.0
+ORD10223,2026-02-20,C1012,Keyboard,2,Online,Returned,Customer_012,Male,32.0,Karachi,4300.0,8600.0
+ORD10410,2026-07-25,C1069,Mobile,1,Online,Cancelled ,Customer_069,Male,37.0,Lahore,57600.0,57600.0
+ORD10084,2026-12-05,C1150,Laptop,3,Card,Completed,Customer_150,Female,53.0,Lahore,89200.0,267600.0
+ORD10249,2026-11-17,C1116,Headphones,1,Cash,Completed,Customer_116,Male,40.0,Faisalabad,7400.0,7400.0
+ORD10166,2026-05-12,C1113,Mouse,5,Card,Completed,Customer_113,Male,41.0,Faisalabad,2400.0,12000.0
+ORD10164,2026-02-02,C1051,Desk,1,Cash,Completed,Customer_051,Male,40.0,Faisalabad,27700.0,27700.0
+ORD10200,2026-09-11,C1042,Laptop,2,Card,Completed,Customer_042,Male,18.0,Peshawar,81200.0,162400.0
+ORD10232,2026-02-19,C1063,Office Chair,1,Card,Completed,Customer_063,Female,60.0,Lahore,21200.0,21200.0
+ORD10075,2026-03-21,C1025,Keyboard,1,Cash,Completed,Customer_025,Male,27.0,Karachi,4500.0,4500.0
+ORD10311,2026-10-14,C1100,Mouse,1,Card,Returned,Customer_100,Male,52.0,Multan,2500.0,2500.0
+ORD10455,2026-09-16,C1092,Monitor,1,Bank Transfer,Completed,Customer_092,Female,28.0,Islamabad,32000.0,32000.0
+ORD10254,2026-06-12,C1109,Desk,1,Online,Completed,Customer_109,Female,28.0,Faisalabad,28400.0,28400.0
+ORD10120,2026-12-24,C1027,Monitor,5,Online,Completed,Customer_027,Male,60.0,Islamabad,28000.0,140000.0
+ORD10285,2026-08-14,C1089,Desk,3,Cash,Completed,Customer_089,Female,44.0,Faisalabad,29700.0,89100.0
+ORD10302,2026-05-07,C1053,Desk,3,Cash,Completed,Customer_053,Male,20.0,Peshawar,27800.0,83400.0
+ORD10483,2026-10-10,C1124,Desk,1,Card,Completed,Customer_124,Female,31.0,Lahore,29500.0,29500.0
+ORD10357,2026-05-30,C1024,Mouse,4,Online,Completed,Customer_024,Female,24.0,Multan,2700.0,10800.0
+ORD10403,2026-02-24,C1116,Laptop,3,Online,Returned,Customer_116,Male,40.0,Faisalabad,78500.0,235500.0
+ORD10229,2026-09-25,C1039,Mobile,2,Online,Completed,Customer_039,Male,23.0,Karachi,52700.0,105400.0
+ORD10262,2026-12-29,C1147,Keyboard,2,Online,Completed,Customer_147,Female,60.0,Lahore,4800.0,9600.0
+ORD10238,2026-06-13,C1038,Monitor,2,Bank Transfer,Completed,Customer_038,Male,23.0,Multan,30600.0,61200.0
+ORD10438,2026-08-19,C1130,Mouse,1,Online,Cancelled,Customer_130,Female,43.0,Lahore,2300.0,2300.0
+ORD10476,2026-10-20,C1132,Mobile,1,Card,Completed,Customer_132,Male,49.0,Karachi,55900.0,55900.0
+ORD10037,2026-10-22,C1095,Monitor,4,Online,Completed,Customer_095,Female,53.0,Peshawar,28000.0,112000.0
+ORD10197,2026-03-28,C1101,Laptop,1,Online,Completed,Customer_101,Female,29.0,Faisalabad,86800.0,86800.0
+ORD10140,2026-07-18,C1071,Desk,2,Online,Completed,Customer_071,Male,44.0,Lahore,28500.0,57000.0
+ORD10368,2026-07-18,C1142,Office Chair,3,Online,Completed,Customer_142,Male,24.0,Peshawar,22500.0,67500.0
+ORD10248,2026-08-12,C1090,Keyboard,2,Cash,Completed,Customer_090,Male,43.0,Islamabad,4800.0,9600.0
+ORD10288,2026-12-04,C1107,Desk,3,Cash,Completed,Customer_107,Female,23.0,Rawalpindi,29300.0,87900.0
+ORD10378,2026-07-03,C1112,Mouse,4,Online,Completed,Customer_112,Female,26.0,Islamabad,2300.0,9200.0
+ORD10060,2026-06-05,C1039,Headphones,1,Bank Transfer,Completed,Customer_039,Male,23.0,Karachi,7900.0,7900.0
+ORD10112,2026-12-08,C1023,Laptop,1,Cash,Completed,Customer_023,Male,24.0,Islamabad,83700.0,83700.0
+ORD10090,2026-01-04,C1145,Mouse,2,Card,Completed,Customer_145,Female,,Karachi,2400.0,4800.0
+ORD10267,2026-11-26,C1040,Laptop,1,Online,Completed,Customer_040,Male,27.0,Faisalabad,85500.0,85500.0
+ORD10007,2026-03-09,C1123,Headphones,2,Online,Completed,Customer_123,Male,53.0,Multan,8000.0,16000.0
+ORD10457,2026-08-04,C1077,Mobile,4,Online,Completed,Customer_077,Male,19.0,Lahore,55200.0,220800.0
+ORD10348,2026-05-29,C1028,Desk,2,Online,Completed,Customer_028,Male,39.0,Lahore,26600.0,53200.0
+ORD10341,2026-07-19,C1016,Mobile,1,Card,Cancelled,Customer_016,Male,47.0,Multan,53700.0,53700.0
+ORD10159,2026-01-31,C1095,Mobile,1,Cash,Cancelled,Customer_095,Female,53.0,Peshawar,54800.0,54800.0
+ORD10151,2026-07-04,C1038,Headphones,3,Cash,completed,Customer_038,Male,23.0,Multan,8500.0,25500.0
+ORD10178,2026-12-03,C1133,Keyboard,1,Cash,Completed,Customer_133,Female,60.0,Islamabad,4300.0,4300.0
+ORD10397,2026-08-04,C1007,Keyboard,1,Cash,Completed,Customer_007,Male,37.0,Multan,4500.0,4500.0
+ORD10185,2026-01-09,C1071,Keyboard,1,Bank Transfer,Completed,Customer_071,Male,44.0,Lahore,4300.0,4300.0
+ORD10318,2026-08-08,C1142,Laptop,1,Cash,Cancelled,Customer_142,Male,24.0,Peshawar,80200.0,80200.0
+ORD10011,2026-02-11,C1088,Headphones,4,Card,Completed,Customer_088,Female,23.0,Peshawar,8300.0,33200.0
+ORD10384,2026-02-02,C1007,Monitor,3,Online,Cancelled,Customer_007,Male,37.0,Multan,31700.0,95100.0
+ORD10104,2026-02-04,C1125,Office Chair,2,Bank Transfer,Completed,Customer_125,Female,21.0,Karachi,22800.0,45600.0
+ORD10082,2026-12-20,C1056,Headphones,1,Online,Completed,Customer_056,Female,51.0,Faisalabad,7800.0,7800.0
+ORD10039,2026-02-19,C1126,Laptop,1,Online,Completed,Customer_126,Female,53.0,Rawalpindi,87700.0,87700.0
+ORD10317,2026-11-08,C1005,Desk,5,Online,Completed,Customer_005,Male,33.0,Islamabad,27500.0,137500.0
+ORD10168,2026-04-15,C1098,Monitor,3,Online,Completed,Customer_098,Female,34.0,Faisalabad,31600.0,94800.0
+ORD10475,2026-08-16,C1023,Laptop,4,Card,Cancelled,Customer_023,Male,24.0,Islamabad,78600.0,314400.0
+ORD10299,2026-06-03,C1099,Headphones,5,Cash,Completed,Customer_099,Female,50.0,Multan,7600.0,38000.0
+ORD10405,2026-10-12,C1128,Keyboard,3,Cash,Completed,Customer_128,Male,41.0,Lahore,4700.0,14100.0
+ORD10199,2026-12-01,C1116,Mobile,1,Cash,Completed,Customer_116,Male,40.0,Faisalabad,51100.0,51100.0
+ORD10377,2026-09-09,C1143,Monitor,1,Online,Completed,Customer_143,Male,36.0,Multan,32300.0,32300.0
+ORD10147,2026-02-20,C1016,Keyboard,4,Card,Cancelled,Customer_016,Male,47.0,Multan,4600.0,18400.0
+ORD10396,2026-10-25,C1043,Office Chair,4,Online,Completed,Customer_043,Male,50.0,Lahore,23100.0,92400.0
+ORD10148,2026-09-04,C1021,Mobile,3,Online,Completed,Customer_021,Male,19.0,Islamabad,58100.0,174300.0
+ORD10484,2026-02-10,C1107,Mouse,3,Cash,Completed,Customer_107,Female,23.0,Rawalpindi,2500.0,7500.0
+ORD10290,2026-03-06,C1112,Laptop,2,Card,Completed,Customer_112,Female,26.0,Islamabad,89200.0,178400.0
+ORD10124,2026-10-20,C1048,Mobile,2,Online,Completed,Customer_048,Female,22.0,,51500.0,103000.0
+ORD10372,2026-01-25,C1013,Laptop,2,Card,Completed,Customer_013,Male,44.0,Islamabad,82700.0,165400.0
+ORD10097,2026-10-04,C1091,Monitor,1,Card,Completed,Customer_091,Female,55.0,Karachi,32100.0,32100.0
+ORD10144,2026-04-04,C1036,Mobile,1,Cash,Completed,Customer_036,Male,57.0,Faisalabad,52600.0,52600.0
+ORD10240,2026-12-07,C1128,Monitor,2,Cash,Cancelled,Customer_128,Male,41.0,Lahore,28800.0,57600.0
+ORD10276,2026-06-20,C1116,Headphones,3,Card,Completed,Customer_116,Male,40.0,Faisalabad,8600.0,25800.0
+ORD10098,2026-08-21,C1045,Mouse,1,Cash,Completed,Customer_045,Male,58.0,Peshawar,2500.0,2500.0
+ORD10353,2026-08-16,C1010,Laptop,1,Online,Completed,Customer_010,Female,31.0,Rawalpindi,81700.0,81700.0
+ORD10123,2026-03-31,C1004,Headphones,1,Card,Completed,Customer_004,Male,26.0,Multan,8000.0,8000.0
+ORD10184,2026-03-20,C1145,Desk,1,Card,Completed,Customer_145,Female,58.0,Karachi,26800.0,26800.0
+ORD10203,2026-05-15,C1088,Keyboard,1,Online,Completed,Customer_088,Female,23.0,Peshawar,4800.0,4800.0
+ORD10247,2026-02-08,C1118,Laptop,1,Card,Completed,Customer_118,Male,24.0,Karachi,80400.0,80400.0
+ORD10308,2026-03-04,C1014,Mobile,3,Card,Completed,Customer_014,Female,27.0,Multan,55900.0,167700.0
+ORD10423,2026-03-09,C1124,Laptop,1,Card,Completed,Customer_124,Female,31.0,Lahore,81300.0,81300.0
+ORD10354,2026-03-19,C1054,Mouse,3,Online,Completed,Customer_054,Male,47.0,Islamabad,2500.0,7500.0
+ORD10303,2026-02-23,C1145,Keyboard,4,Card,Cancelled,Customer_145,Female,58.0,Karachi,4700.0,18800.0
+ORD10399,2026-02-15,C1106,Laptop,1,Online,Completed,Customer_106,Female,34.0,Islamabad,87300.0,87300.0
+ORD10287,2026-05-08,C1053,Office Chair,1,Cash,Returned,Customer_053,Male,20.0,Peshawar,20400.0,20400.0
+ORD10126,2026-08-13,C1063,Headphones,3,Online,Completed,Customer_063,Female,60.0,Lahore,8300.0,24900.0
+ORD10305,2026-06-24,C1012,Laptop,2,Online,Completed,Customer_012,Male,32.0,Karachi,85600.0,171200.0
+ORD10224,2026-12-19,C1111,Monitor,3,Cash,Completed,Customer_111,Female,49.0,Multan,30700.0,92100.0
+ORD10422,2026-08-28,C1045,Mouse,1,Cash,Completed,Customer_045,Male,58.0,Peshawar,2700.0,2700.0
+ORD10220,2026-03-29,C1045,Laptop,1,Cash,Completed,Customer_045,Male,58.0,Peshawar,79900.0,79900.0
+ORD10130,2026-04-14,C1027,Headphones,2,Online,Completed,Customer_027,Male,60.0,Islamabad,8000.0,16000.0
+ORD10424,2026-07-06,C1109,Monitor,5,Card,Completed,Customer_109,Female,28.0,Faisalabad,28300.0,141500.0
+ORD10292,2026-10-19,C1130,Desk,2,Card,Completed,Customer_130,Female,43.0,Lahore,28500.0,57000.0
+ORD10493,2026-05-12,C1028,Keyboard,1,Bank Transfer,Completed,Customer_028,Male,39.0,Lahore,4600.0,4600.0
+ORD10394,2026-09-02,C1143,Keyboard,1,Cash,Completed,Customer_143,Male,36.0,Multan,4500.0,4500.0
+ORD10480,2026-10-18,C1044,Office Chair,2,Online,Completed,Customer_044,Male,37.0,Faisalabad,20600.0,41200.0
+ORD10358,2026-02-25,C1127,Laptop,4,Online,Completed,Customer_127,Male,57.0,Multan,89800.0,359200.0
+ORD10297,2026-07-21,C1148,Keyboard,3,Card,Completed,Customer_148,Female,48.0,Karachi,4400.0,13200.0
+ORD10370,2026-05-20,C1004,Laptop,2,Online,Completed,Customer_004,,26.0,Multan,85400.0,170800.0
+ORD10343,2026-01-13,C1108,Monitor,2,Cash,Completed,Customer_108,Female,18.0,Peshawar,28300.0,56600.0
+ORD10113,2026-08-24,C1081,Monitor,2,Bank Transfer,Completed,Customer_081,Male,47.0,Faisalabad,29700.0,59400.0
+ORD10180,2026-10-21,C1084,Mouse,2,Cash,Completed,Customer_084,Female,21.0,Karachi,2500.0,5000.0
+ORD10419,2026-02-10,C1112,Mouse,2,Online,Completed,Customer_112,Female,26.0,Islamabad,2400.0,4800.0
+ORD10342,2026-03-25,C1088,Mouse,4,Online,Completed,Customer_088,Female,23.0,Peshawar,2500.0,10000.0
+ORD10333,2026-05-08,C1051,Desk,2,Card,Cancelled,Customer_051,Male,40.0,Faisalabad,29200.0,58400.0
+ORD10487,2026-12-16,C1057,Laptop,1,Cash,Completed,Customer_057,Female,47.0,Peshawar,86400.0,86400.0
+ORD10363,2026-10-20,C1146,Headphones,3,Online,Completed,Customer_146,Male,22.0,Lahore,8200.0,24600.0
+ORD10234,2026-10-19,C1024,Keyboard,2,Online,Completed,Customer_024,Female,24.0,Multan,4800.0,9600.0
+ORD10473,2026-05-02,C1091,Mobile,5,Card,Completed,Customer_091,Female,55.0,Karachi,55100.0,275500.0
+ORD10165,2026-12-27,C1116,Laptop,4,Online,Completed,Customer_116,Male,40.0,Faisalabad,90800.0,363200.0
+ORD10137,2026-09-01,C1054,Headphones,1,Card,Completed,Customer_054,Male,47.0,Islamabad,8200.0,8200.0
+ORD10198,2026-04-28,C1034,Laptop,2,Card,Completed,Customer_034,Male,43.0,Peshawar,88300.0,176600.0
+ORD10259,2026-05-06,C1029,Monitor,2,Online,Completed,Customer_029,Male,30.0,Karachi,31300.0,62600.0
+ORD10233,2026-03-22,C1048,Headphones,4,Card,Completed,Customer_048,Female,22.0,Peshawar,7900.0,31600.0
+ORD10116,2026-03-05,C1042,Laptop,3,Card,Completed,Customer_042,Male,18.0,Peshawar,89000.0,267000.0
+ORD10121,2026-04-27,C1071,Headphones,3,Card,Returned,Customer_071,Male,44.0,Lahore,8300.0,24900.0
+ORD10352,2026-06-30,C1141,Laptop,1,Cash,Completed,Customer_141,Female,31.0,Karachi,90300.0,90300.0
+ORD10225,2026-11-23,C1147,Mobile,2,Cash,Completed,Customer_147,Female,60.0,Lahore,50900.0,101800.0
+ORD10406,2026-09-19,C1065,Office Chair,1,Online,Completed,Customer_065,Female,35.0,Faisalabad,21400.0,21400.0
+ORD10437,2026-05-16,C1024,Mobile,1,,Cancelled,Customer_024,Female,24.0,Multan,52300.0,52300.0
+ORD10128,2026-11-16,C1093,Desk,2,Online,Completed,Customer_093,Female,55.0,Multan,28700.0,57400.0
+ORD10286,2026-10-05,C1019,Laptop,1,Online,Completed,Customer_019,Female,,Multan,88800.0,88800.0
+ORD10415,2026-04-29,C1128,Office Chair,1,Card,Completed,Customer_128,Male,41.0,Lahore,21300.0,21300.0
+ORD10108,2026-04-30,C1127,Laptop,2,Card,Completed,Customer_127,Male,57.0,Multan,90200.0,180400.0
+ORD10374,2026-07-18,C1016,Laptop,1,Cash,Completed,Customer_016,Male,47.0,Multan,89000.0,89000.0
+ORD10371,2026-01-15,C1105,Mobile,3,Online,Cancelled,Customer_105,Male,39.0,Rawalpindi,57100.0,171300.0
+ORD10134,2026-06-25,C1038,Headphones,3,Online,Completed,Customer_038,Male,23.0,Multan,7900.0,23700.0
+ORD10400,2026-07-08,C1083,Mobile,4,Online,Completed,Customer_083,Female,45.0,Rawalpindi,53500.0,214000.0
+ORD10045,2026-10-10,C1150,Headphones,5,Cash,Completed,Customer_150,Female,53.0,Lahore,7700.0,38500.0
+ORD10466,2026-05-08,C1046,Headphones,1,Card,Completed,Customer_046,Male,42.0,Karachi,8400.0,8400.0
+ORD10066,2026-11-27,C1025,Laptop,1,Card,Returned,Customer_025,Male,27.0,Karachi,79200.0,79200.0
+ORD10284,2026-12-13,C1061,Monitor,3,Card,Completed,Customer_061,Female,45.0,Lahore,29900.0,89700.0
+ORD10086,2026-02-06,C1080,Headphones,1,Card,Completed,Customer_080,Female,24.0,Rawalpindi,8300.0,8300.0
+ORD10243,2026-01-06,C1114,Keyboard,1,Card,Completed,Customer_114,Female,18.0,Islamabad,4200.0,4200.0
+ORD10187,2026-11-22,C1119,Mobile,1,Card,Completed,Customer_119,Female,54.0,Rawalpindi,58900.0,58900.0
+ORD10387,2026-03-30,C1012,Desk,3,Online,Completed,Customer_012,Male,32.0,Karachi,28000.0,84000.0
+ORD10160,2026-10-04,C1033,Keyboard,1,Online,Returned,Customer_033,Male,28.0,Peshawar,4300.0,4300.0
+ORD10013,2026-08-18,C1116,Keyboard,1,Online,Returned,Customer_116,Male,40.0,Faisalabad,4600.0,4600.0
+ORD10036,2026-08-18,C1022,Laptop,3,Bank Transfer,Completed,Customer_022,Male,19.0,Karachi,81100.0,243300.0
+ORD10029,2026-09-28,C1004,Headphones,1,Card,Completed,Customer_004,Male,26.0,Multan,8300.0,8300.0
+ORD10171,2026-06-14,C1020,Laptop,4,Card,Completed,Customer_020,Female,59.0,Islamabad,90500.0,362000.0
+ORD10143,2026-09-18,C1030,Mobile,2,Card,Completed,Customer_030,Female,55.0,Peshawar,50900.0,101800.0
+ORD10417,2026-11-30,C1036,Headphones,1,Card,Completed,Customer_036,Male,57.0,Faisalabad,7600.0,7600.0
+ORD10425,2026-12-10,C1003,Office Chair,1,Card,Cancelled,Customer_003,Female,35.0,Rawalpindi,21300.0,21300.0
+ORD10222,2026-07-28,C1106,Headphones,1,Cash,Cancelled,Customer_106,Female,34.0,Islamabad,8400.0,8400.0
+ORD10096,2026-10-26,C1076,Laptop,2,Online,Completed,Customer_076,Female,47.0,Rawalpindi,81200.0,162400.0
+ORD10052,2026-09-03,C1037,Headphones,2,Card,Completed,Customer_037,Female,50.0,Rawalpindi,8000.0,16000.0
+ORD10241,2026-08-02,C1069,Headphones,2,Cash,Completed,Customer_069,Male,37.0,Lahore,8100.0,16200.0
+ORD10376,2026-12-30,C1015,Desk,1,Card,Completed,Customer_015,Male,40.0,Lahore,29400.0,29400.0
+ORD10382,2026-09-24,C1136,Keyboard,2,Card,Completed,Customer_136,Male,49.0,Lahore,4600.0,9200.0
+ORD10179,2026-12-19,C1044,Headphones,2,Card,Completed,Customer_044,Male,37.0,Faisalabad,8100.0,16200.0
+ORD10042,2026-12-09,C1141,Laptop,2,Online,Completed,Customer_141,Female,31.0,Karachi,90300.0,180600.0
+ORD10440,2026-12-23,C1024,Mobile,2,Card,Completed,Customer_024,Female,24.0,Multan,51600.0,103200.0
+ORD10391,2026-12-30,C1004,Keyboard,2,Card,Completed,Customer_004,Male,26.0,Multan,4800.0,9600.0
+ORD10207,2026-05-05,C1091,Headphones,2,,Completed,Customer_091,Female,55.0,Karachi,8100.0,16200.0
+ORD10283,2026-10-28,C1113,Headphones,2,Cash,Completed,Customer_113,Male,41.0,Faisalabad,8000.0,16000.0
+ORD10255,2026-10-15,C1082,Laptop,2,Online,Completed,Customer_082,Female,58.0,Multan,88500.0,177000.0
+ORD10416,2026-06-11,C1012,Mobile,3,Online,Completed,Customer_012,Male,32.0,Karachi,54700.0,164100.0
+ORD10005,2026-04-01,C1087,Headphones,1,Card,Completed,Customer_087,Male,48.0,Faisalabad,8600.0,8600.0
+ORD10257,2026-02-25,C1137,Laptop,2,Bank Transfer,Completed,Customer_137,Female,42.0,Rawalpindi,88500.0,177000.0
+ORD10453,2026-10-19,C1083,Headphones,3,Online,Completed,Customer_083,Female,45.0,Rawalpindi,7700.0,23100.0
+ORD10101,2026-08-06,C1069,Monitor,1,Online,Completed,Customer_069,Male,37.0,Lahore,30500.0,30500.0
+ORD10227,2026-07-26,C1079,Office Chair,1,Bank Transfer,Completed,Customer_079,Female,27.0,Multan,23700.0,23700.0
+ORD10432,2026-07-15,C1024,Laptop,3,Bank Transfer,Completed,Customer_024,Female,24.0,Multan,89800.0,269400.0
+ORD10214,2026-01-03,C1064,Laptop,2,Bank Transfer,Completed,Customer_064,Male,59.0,Karachi,88700.0,177400.0
+ORD10426,2026-06-19,C1070,Headphones,3,Bank Transfer,Completed,Customer_070,Male,42.0,Islamabad,8500.0,25500.0
+ORD10172,2026-11-14,C1071,Headphones,5,Card,Completed,Customer_071,Male,44.0,Lahore,8500.0,42500.0
+ORD10099,2026-09-10,C1129,Mouse,2,Cash,Completed,Customer_129,Male,59.0,Peshawar,2400.0,4800.0
+ORD10293,2026-02-22,C1073,Office Chair,1,Online,Completed,Customer_073,Male,60.0,Rawalpindi,21400.0,21400.0
+ORD10216,2026-06-20,C1097,Headphones,3,Online,Completed,Customer_097,Female,18.0,Lahore,8600.0,25800.0
+ORD10062,2026-10-22,C1049,Desk,1,Card,Completed,Customer_049,Female,45.0,Karachi,29000.0,29000.0
+ORD10048,2026-02-01,C1119,Headphones,1,Cash,Cancelled,Customer_119,Female,54.0,Rawalpindi,7800.0,7800.0
+ORD10033,2026-06-02,C1113,Keyboard,2,Card,Cancelled,Customer_113,Male,41.0,Faisalabad,4500.0,9000.0
+ORD10268,2026-03-27,C1020,Desk,1,Cash,Completed,Customer_020,Female,59.0,Islamabad,25900.0,25900.0
+ORD10328,2026-04-29,C1004,Monitor,1,Bank Transfer,Completed,Customer_004,Male,26.0,Multan,31100.0,31100.0
+ORD10201,2026-12-28,C1103,Desk,1,Online,Completed,Customer_103,Female,35.0,Islamabad,29400.0,29400.0
+ORD10451,2026-03-19,C1054,Laptop,2,Online,Completed,Customer_054,Male,47.0,Islamabad,83100.0,166200.0
+ORD10028,2026-01-31,C1047,Laptop,3,Cash,Completed,Customer_047,Female,52.0,Lahore,89000.0,267000.0
+ORD10393,2026-01-10,C1005,Mouse,1,Online,Completed,Customer_005,Male,33.0,Islamabad,2600.0,2600.0
+ORD10231,2026-08-17,C1072,Mouse,3,Bank Transfer,Completed,Customer_072,Male,57.0,Lahore,2500.0,7500.0
+ORD10261,2026-05-05,C1115,Laptop,4,Bank Transfer,Completed,Customer_115,Female,21.0,Peshawar,79700.0,318800.0
+ORD10289,2026-01-20,C1054,Office Chair,1,Online,Completed,Customer_054,Male,47.0,Islamabad,23500.0,23500.0
+ORD10163,2026-11-02,C1116,Mobile,3,Card,Completed,Customer_116,Male,40.0,Faisalabad,51200.0,153600.0
+ORD10429,2026-09-26,C1037,Keyboard,3,Card,Returned,Customer_037,Female,50.0,Rawalpindi,4700.0,14100.0
+ORD10139,2026-09-13,C1144,Mobile,2,Online,Completed,Customer_144,Male,36.0,Multan,50800.0,101600.0
+ORD10063,2026-12-23,C1090,Mouse,1,Online,Completed,Customer_090,Male,43.0,Islamabad,2500.0,2500.0
+ORD10136,2026-03-22,C1074,Keyboard,1,Card,Cancelled,Customer_074,Male,19.0,Islamabad,4300.0,4300.0
+ORD10129,2026-09-24,C1015,Keyboard,1,Card,Returned,Customer_015,Male,40.0,Lahore,4400.0,4400.0
+ORD10482,2026-06-14,C1096,Mobile,1,Cash,Completed,Customer_096,Female,41.0,Karachi,55100.0,55100.0
+ORD10009,2026-12-17,C1067,Laptop,3,Cash,Completed,Customer_067,Male,60.0,Islamabad,89900.0,269700.0
+ORD10327,2026-06-11,C1113,Desk,4,Card,Completed,Customer_113,Male,41.0,Faisalabad,27000.0,108000.0
+ORD10469,2026-02-16,C1092,Mobile,2,Cash,Completed,Customer_092,Female,28.0,Islamabad,53900.0,107800.0
+ORD10065,2026-11-23,C1120,Monitor,5,Cash,Completed,Customer_120,Female,31.0,Faisalabad,30800.0,154000.0
+ORD10301,2026-10-08,C1007,Mouse,1,Cash,Completed,Customer_007,Male,37.0,Multan,2700.0,2700.0
+ORD10015,2026-10-07,C1126,Desk,1,Card,Completed,Customer_126,Female,53.0,Rawalpindi,29500.0,29500.0
+ORD10157,2026-11-06,C1055,Laptop,3,Online,Completed,Customer_055,Male,28.0,Rawalpindi,80200.0,240600.0
+ORD10041,2026-08-26,C1032,Monitor,2,Cash,Completed,Customer_032,Female,34.0,Islamabad,29000.0,58000.0
+ORD10380,2026-05-04,C1043,Headphones,2,Online,Completed,Customer_043,Male,50.0,Lahore,7700.0,15400.0
+ORD10465,2026-02-09,C1079,Headphones,2,Card,Completed,Customer_079,Female,27.0,Multan,8100.0,16200.0
+ORD10407,2026-12-10,C1107,Mouse,2,Bank Transfer,Completed,Customer_107,Female,23.0,Rawalpindi,2600.0,5200.0
+ORD10217,2026-06-05,C1047,Mobile,1,Card,Returned,Customer_047,Female,52.0,Lahore,58800.0,58800.0
+ORD10280,2026-08-16,C1052,Headphones,1,Online,Completed,Customer_052,Female,35.0,Rawalpindi,7600.0,7600.0
+ORD10439,2026-01-25,C1129,Desk,3,Card,Completed,Customer_129,Male,59.0,Peshawar,26200.0,78600.0
+ORD10435,2026-04-24,C1018,Monitor,1,Online,Completed,Customer_018,Male,45.0,Rawalpindi,30200.0,30200.0
+ORD10338,2026-05-04,C1073,Mobile,2,Card,Completed,Customer_073,Male,60.0,Rawalpindi,51100.0,102200.0
+ORD10237,2026-11-22,C1099,Keyboard,2,Cash,Completed,Customer_099,Female,50.0,Multan,4600.0,9200.0
+ORD10208,2026-01-22,C1078,Mobile,4,Card,Cancelled,Customer_078,Male,42.0,Faisalabad,52100.0,208400.0
+ORD10213,2026-12-21,C1003,Mobile,2,Online,Completed,Customer_003,Female,35.0,Rawalpindi,53800.0,107600.0
+ORD10296,2026-10-20,C1014,Mobile,3,Cash,Completed,Customer_014,Female,27.0,Multan,50800.0,152400.0
+ORD10462,2026-09-18,C1070,Monitor,4,Online,Cancelled,Customer_070,Male,42.0,Islamabad,31500.0,126000.0
+ORD10252,2026-08-22,C1052,Laptop,1,Cash,Completed,Customer_052,Female,35.0,Rawalpindi,91800.0,91800.0
+ORD10494,2026-02-15,C1098,Monitor,1,Online,Completed,Customer_098,Female,34.0,Faisalabad,29300.0,29300.0
+ORD10463,2026-03-30,C1083,Keyboard,4,Card,Completed,Customer_083,Female,45.0,Rawalpindi,4300.0,17200.0
+ORD10304,2026-01-28,C1044,Mouse,4,Cash,Returned,Customer_044,Male,37.0,Faisalabad,2300.0,9200.0
+ORD10351,2026-04-02,C1144,Desk,5,Online,Completed,Customer_144,Male,36.0,Multan,29600.0,148000.0
+ORD10270,2026-10-26,C1136,Desk,1,Card,Completed,Customer_136,Male,49.0,Lahore,27800.0,27800.0
+ORD10202,2026-04-23,C1030,Headphones,2,Card,Completed,Customer_030,Female,55.0,Peshawar,8500.0,17000.0
+ORD10162,2026-12-26,C1024,Mobile,3,Online,Cancelled,Customer_024,Female,24.0,Multan,57800.0,173400.0
+ORD10044,2026-11-05,C1012,Mobile,2,Card,Completed,Customer_012,Male,32.0,Karachi,55900.0,111800.0
+ORD10218,2026-04-04,C1084,Laptop,1,Cash,Completed,Customer_084,Female,21.0,Karachi,79100.0,79100.0
+ORD10402,2026-06-02,C1001,Laptop,5,Online,Completed,Customer_001,Male,47.0,Faisalabad,79200.0,396000.0
+ORD10191,2026-04-07,C1072,Headphones,1,Cash,Completed,Customer_072,Male,57.0,Lahore,8000.0,8000.0
+ORD10310,2026-10-26,C1075,Monitor,3,Card,Completed,Customer_075,Male,40.0,Multan,31100.0,93300.0
+ORD10260,2026-12-16,C1006,Mouse,2,Online,Completed,Customer_006,Female,43.0,Rawalpindi,2600.0,5200.0
+ORD10106,2026-03-06,C1096,Keyboard,1,Cash,Completed,Customer_096,Female,41.0,Karachi,4200.0,4200.0
+ORD10054,2026-07-11,C1082,Mouse,1,Cash,Completed,Customer_082,Female,58.0,Multan,2600.0,2600.0
+ORD10390,2026-10-29,C1148,Headphones,3,Card,Completed,Customer_148,Female,48.0,Karachi,8000.0,24000.0
+ORD10002,2026-05-20,C1134,Keyboard,3,Cash,Completed,Customer_134,Female,60.0,Islamabad,4600.0,13800.0
+ORD10492,2026-08-28,C1011,Monitor,2,Cash,Completed,Customer_011,Male,53.0,Lahore,31400.0,62800.0
+ORD10488,2026-07-30,C1014,Laptop,1,Online,Completed,Customer_014,Female,27.0,Multan,79200.0,79200.0
+ORD10050,2026-06-03,C1079,Laptop,2,Cash,Completed,Customer_079,Female,27.0,Multan,85800.0,171600.0
+ORD10420,2026-03-23,C1092,Mobile,3,Card,Completed,Customer_092,Female,28.0,Islamabad,53400.0,160200.0
+ORD10081,2026-09-16,C1078,Keyboard,1,Cash,Completed,Customer_078,Male,42.0,Faisalabad,4400.0,4400.0
+ORD10206,2026-12-04,C1025,Headphones,4,Online,Cancelled,Customer_025,Male,27.0,Karachi,8500.0,34000.0
+ORD10035,2026-05-19,C1023,Desk,1,Bank Transfer,Completed,Customer_023,Male,24.0,Islamabad,27700.0,27700.0
+ORD10431,2026-05-28,C1090,Headphones,1,Card,Completed,Customer_090,Male,43.0,Islamabad,7800.0,7800.0
+ORD10264,2026-07-18,C1126,Headphones,1,Cash,Completed,Customer_126,Female,53.0,Rawalpindi,8600.0,8600.0
+ORD10428,2026-10-31,C1023,Mobile,4,Card,Completed,Customer_023,Male,24.0,Islamabad,52100.0,208400.0
+ORD10367,2026-04-24,C1037,Desk,1,Card,Completed,Customer_037,Female,50.0,Rawalpindi,26200.0,26200.0
+ORD10092,2026-11-26,C1054,Desk,3,Cash,Completed,Customer_054,Male,47.0,Islamabad,29800.0,89400.0
+ORD10340,2026-09-30,C1019,Office Chair,2,Cash,Completed,Customer_019,Female,27.0,Multan,20600.0,41200.0
+ORD10479,2026-02-03,C1098,Mobile,2,Cash,Completed,Customer_098,Female,34.0,Faisalabad,54800.0,109600.0
+ORD10053,2026-04-02,C1080,Monitor,4,Online,Completed,Customer_080,Female,24.0,Rawalpindi,29200.0,116800.0
+ORD10346,2026-12-09,C1119,Headphones,2,Bank Transfer,Completed,Customer_119,Female,54.0,Rawalpindi,7600.0,15200.0
+ORD10265,2026-08-22,C1029,Monitor,1,Cash,Cancelled,Customer_029,Male,30.0,Karachi,31800.0,31800.0
+ORD10242,2026-08-13,C1086,Mouse,3,Online,Completed,Customer_086,Male,18.0,Lahore,2400.0,7200.0
+ORD10014,2026-02-24,C1046,Mobile,1,Cash,Completed,Customer_046,Male,42.0,Karachi,54000.0,54000.0
+ORD10316,2026-01-06,C1061,Mouse,2,Online,Completed,Customer_061,Female,45.0,Lahore,2400.0,4800.0
+ORD10089,2026-09-01,C1006,Office Chair,5,Card,Completed,Customer_006,Female,43.0,Rawalpindi,21300.0,106500.0
+ORD10388,2026-03-30,C1072,Desk,2,Bank Transfer,Completed,Customer_072,Male,57.0,Lahore,30200.0,60400.0
+ORD10274,2026-08-04,C1142,Mobile,2,Online,Completed,Customer_142,Male,24.0,Peshawar,55300.0,110600.0
+ORD10167,2026-10-15,C1114,Keyboard,1,Bank Transfer,Completed,Customer_114,Female,18.0,Islamabad,4300.0,4300.0
+ORD10329,2026-11-14,C1146,Mobile,2,Bank Transfer,Completed,Customer_146,Male,22.0,Lahore,51700.0,103400.0
+ORD10498,2026-05-13,C1107,Mobile,1,Bank Transfer,Completed,Customer_107,Female,23.0,Rawalpindi,52600.0,52600.0
+ORD10135,2026-06-20,C1067,Keyboard,2,Cash,Cancelled,Customer_067,Male,60.0,Islamabad,4700.0,9400.0
+ORD10307,2026-04-28,C1039,Office Chair,2,Card,Completed,Customer_039,Male,23.0,Karachi,22900.0,45800.0
+ORD10486,2026-11-04,C1135,Mobile,2,Online,Cancelled,Customer_135,Female,30.0,Multan,51700.0,103400.0
+ORD10320,2026-07-01,C1037,Laptop,1,Card,Completed,Customer_037,Female,50.0,Rawalpindi,84700.0,84700.0
+ORD10244,2026-09-07,C1144,Mobile,3,Cash,Completed,Customer_144,Male,36.0,Multan,59400.0,178200.0
+ORD10055,2026-01-05,C1131,Laptop,1,Card,Completed,Customer_131,Male,22.0,Lahore,89800.0,89800.0
+ORD10364,2026-04-04,C1150,Office Chair,5,Card,Completed,Customer_150,Female,53.0,Lahore,22300.0,111500.0
+ORD10051,2026-06-05,C1133,Mouse,2,Card,Completed,Customer_133,Female,60.0,Islamabad,2700.0,5400.0
+ORD10461,2026-12-23,C1115,Mobile,2,Bank Transfer,Completed,Customer_115,Female,21.0,Peshawar,57500.0,115000.0
+ORD10175,2026-05-07,C1045,Keyboard,3,Cash,Completed,Customer_045,Male,58.0,Peshawar,4200.0,12600.0
+ORD10446,2026-06-10,C1019,Monitor,3,Online,Completed,Customer_019,Female,,Multan,32100.0,96300.0
+ORD10190,2026-03-25,C1088,Desk,1,Online,Completed,Customer_088,Female,23.0,Peshawar,29100.0,29100.0
+ORD10002,2026-05-20,C1134,Keyboard,3,Cash,Completed,Customer_134,Female,60.0,Islamabad,4600.0,13800.0
+ORD10464,2026-10-04,C1009,Desk,5,Online,Completed,Customer_009,Female,45.0,Peshawar,27300.0,136500.0
+ORD10188,2026-04-22,C1106,Mouse,2,Cash,Completed,Customer_106,Female,34.0,Islamabad,2500.0,5000.0
+ORD10170,2026-01-15,C1068,Laptop,1,Online,completed,Customer_068,Female,23.0,Multan,86600.0,86600.0
+ORD10059,2026-11-30,C1127,Laptop,2,Online,Completed,Customer_127,Male,57.0,Multan,90300.0,180600.0
+ORD10049,2026-09-09,C1089,Mobile,3,Online,Completed,Customer_089,Female,44.0,Faisalabad,52700.0,158100.0
+ORD10345,2026-05-04,C1004,Headphones,4,Card,Completed,Customer_004,Male,26.0,Multan,7500.0,30000.0
+ORD10236,2026-05-02,C1089,Laptop,3,Bank Transfer,Completed,Customer_089,Female,44.0,Faisalabad,88200.0,264600.0
+ORD10253,2026-04-06,C1129,Mobile,1,Card,Cancelled,Customer_129,Male,59.0,Peshawar,56800.0,56800.0
+ORD10022,2026-07-20,C1085,Mobile,1,Online,Cancelled,Customer_085,Male,39.0,Rawalpindi,54200.0,54200.0
+ORD10314,2026-03-05,C1066,Headphones,1,Bank Transfer,Returned,Customer_066,Female,37.0,Lahore,8500.0,8500.0
+ORD10460,2026-10-08,C1055,Headphones,3,Online,Completed,Customer_055,Male,28.0,,8200.0,24600.0
+ORD10161,2026-08-08,C1022,Keyboard,5,Online,Completed,Customer_022,Male,19.0,Karachi,4300.0,21500.0
+ORD10277,2026-01-05,C1111,Laptop,4,Online,Completed,Customer_111,Female,49.0,Multan,79200.0,316800.0
+ORD10444,2026-02-16,C1034,Monitor,2,Online,Completed,Customer_034,Male,43.0,Peshawar,28100.0,56200.0
+ORD10192,2026-02-21,C1032,Desk,5,,Completed,Customer_032,Female,34.0,Islamabad,27400.0,137000.0
+ORD10386,2026-09-21,C1053,Headphones,2,Cash,Completed,Customer_053,Male,20.0,Peshawar,7800.0,15600.0
+ORD10294,2026-08-09,C1035,Monitor,2,Cash,Completed,Customer_035,Male,48.0,Peshawar,30300.0,60600.0
+ORD10414,2026-01-23,C1005,Headphones,1,Online,Completed,Customer_005,Male,33.0,Islamabad,8200.0,8200.0
+ORD10344,2026-02-09,C1023,Headphones,2,Card,Completed,Customer_023,Male,24.0,Islamabad,7400.0,14800.0
+ORD10258,2026-10-26,C1030,Monitor,3,Bank Transfer,Completed,Customer_030,Female,55.0,Peshawar,30300.0,90900.0
+ORD10309,2026-01-10,C1079,Mobile,5,Cash,Completed,Customer_079,Female,27.0,Multan,50900.0,254500.0
+ORD10150,2026-05-03,C1138,Headphones,1,Cash,Completed,Customer_138,Male,54.0,Karachi,7600.0,7600.0
+ORD10131,2026-12-08,C1088,Headphones,2,Online,Completed,Customer_088,Female,23.0,Peshawar,8000.0,16000.0
+ORD10152,2026-04-30,C1056,Keyboard,1,Cash,Completed,Customer_056,Female,51.0,Faisalabad,4600.0,4600.0
+ORD10360,2026-07-22,C1080,Laptop,1,Card,returned,Customer_080,Female,24.0,Rawalpindi,86400.0,86400.0
+ORD10100,2026-06-04,C1145,Keyboard,4,Cash,Returned,Customer_145,Female,58.0,,4800.0,19200.0
+ORD10373,2026-12-29,C1136,Keyboard,1,Cash,Completed,Customer_136,Male,49.0,Lahore,4500.0,4500.0
+ORD10088,2026-01-04,C1116,Mobile,1,Online,Completed,Customer_116,Male,40.0,Faisalabad,53300.0,53300.0
+ORD10459,2026-03-17,C1080,Headphones,2,Bank Transfer,Completed,Customer_080,Female,24.0,Rawalpindi,7800.0,15600.0
+ORD10331,2026-08-09,C1041,Keyboard,1,Card,Completed,Customer_041,Female,45.0,Peshawar,4500.0,4500.0
+ORD10215,2026-11-04,C1129,Mobile,1,Online,Completed,Customer_129,Male,59.0,Peshawar,53000.0,53000.0
+ORD10467,2026-03-06,C1075,Keyboard,1,Card,Completed,Customer_075,Male,40.0,Multan,4900.0,4900.0
+ORD10122,2026-12-24,C1059,Headphones,1,Card,Completed,Customer_059,Male,56.0,Faisalabad,7800.0,7800.0
+ORD10005,2026-04-01,C1087,Headphones,1,Card,Completed,Customer_087,Male,48.0,Faisalabad,8600.0,8600.0
+ORD10021,2026-05-19,C1054,Mobile,1,Bank Transfer,Completed,Customer_054,Male,47.0,Islamabad,53500.0,53500.0
+ORD10189,2026-08-05,C1061,Laptop,2,Online,Completed,Customer_061,Female,45.0,Lahore,81400.0,162800.0
+ORD10072,2026-08-04,C1111,Headphones,1,Cash,Returned,Customer_111,Female,49.0,Multan,7600.0,7600.0
+ORD10107,2026-07-18,C1101,Office Chair,2,Online,Completed,Customer_101,Female,29.0,Faisalabad,22500.0,45000.0
+ORD10271,2026-02-28,C1006,Desk,5,Card,Completed,Customer_006,Female,43.0,Rawalpindi,29000.0,145000.0
+ORD10349,2026-04-21,C1146,Laptop,1,Online,Completed,Customer_146,Male,22.0,Lahore,90400.0,90400.0
+ORD10436,2026-11-13,C1100,Laptop,3,Cash,Completed,Customer_100,Male,52.0,Multan,85200.0,255600.0
+ORD10103,2026-09-14,C1150,Mobile,2,Online,Completed,Customer_150,Female,53.0,Lahore,52900.0,105800.0
